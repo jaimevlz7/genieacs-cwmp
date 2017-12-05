@@ -1,6 +1,6 @@
 FROM jaimevlz7/genieacs-base
 
-MAINTAINER LUXNETWORK Engineering <eng@luxnetwork.lu>
+MAINTAINER Jaime Vélez - Ingeniero Télemático.
 
 # Expose GenieACS CWMP port
 EXPOSE 7547
